@@ -1,0 +1,4 @@
+repository "ASMRLoop@pumpkin_games_hc@cloud"
+  path "/"
+    br "/main"
+    co "/main"
